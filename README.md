@@ -1,6 +1,6 @@
 # New Project
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+This project here allows people to make a gif by putting in a video and turning into a gif. did it for fun in the APP jsx file. It is very easy to use and understand look at the comments in file to understand how it works.
 
 ## Available Scripts
 
